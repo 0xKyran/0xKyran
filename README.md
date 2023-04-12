@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**0xKyran/0xKyran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kyran, a passionate DevOps Engineer and Blockchain Specialist! I'm always eager to explore and learn new technologies, especially in the areas of AI and blockchain. I'm skilled in managing cloud infrastructure, optimizing performance, and ensuring reliability for projects.
 
-Here are some ideas to get you started:
+## 🛠️ My Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**DevOps**: Docker 🐳, Kubernetes ☸️, Jenkins 🛠️, Git 📚, CI/CD 🔁
+
+**Cloud Platforms**: AWS 🌩️ (Certified) & GCP 🌐
+
+**Infrastructure as Code**: Terraform 🏗️, Ansible ⚙️
+
+**Blockchain**: Ethereum 🌐, Solidity 📜, Smart Contracts 🔐, DApps 📱
+
+**Languages**: Python 🐍, JavaScript ⚡, Shell 🐚, Solidity 📜
+
+**NFT & Crypto**: ERC-721 🎨, ERC-20 💰, DeFi 🏦, IPFS 📦
+
+
+
+⭐️ From [0xkyran](https://github.com/0xKyran)
