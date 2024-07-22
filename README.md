@@ -1,22 +1,24 @@
 # Hello, World! 👋
 
-I'm Kyran, a passionate DevOps Engineer and Blockchain Specialist! I'm always eager to explore and learn new technologies, especially in the areas of AI and blockchain. I'm skilled in managing cloud infrastructure, optimizing performance, and ensuring reliability for projects.
+Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentralized infrastructure and availability. With a focus on blockchain and architecture, I strive to bring together the power of decentralized technology and efficiency.
 
-Website: [0xkyran.com](https://0xkyran.com/)
+Website: [0xkyran.dev](https://0xkyran.dev/)
+Github:  [0xkyran](https://github.com/0xKyran)
+X:       [0xkyran](https://x.com/0xkyran)
 
 ## 🛠️ My Toolkit
 
-**DevOps**: Git 📚, CI/CD 🔁,Docker 🐳, Kubernetes ☸️, Jenkins 🛠️
+**DevOps**: Git, CI/CD,Docker, Kubernetes
 
-**Cloud Platforms**: AWS 🌩️ (Certified) & GCP 🌐
+**Cloud Platforms**: AWS (Certified) & GCP, Akamai
 
-**Infrastructure as Code**: Terraform 🏗️, Ansible ⚙️
+**Infrastructure as Code**: Terraform, Ansible, Prisma
 
-**Blockchain**: Ethereum 🌐, Arweave 💎, Bitcoin 🪙
+**Blockchain**: Ethereum, Arweave, Bitcoin
 
-**Languages**: Solidity 📜, Python 🐍, JavaScript ⚡, Shell 🐚, 
+**Languages**: Solidity, Python, JavaScript, POSIX, Rust, Go
 
-**NFT & Crypto**: ERC-721 🎨, ERC-20 💰, DeFi 🏦, IPFS 📦
+**NFT & Crypto**: ERC-721, ERC-20, DeFi, IPFS
 
 
 ⭐️ & ❤️ From [0xkyran](https://github.com/0xKyran)
