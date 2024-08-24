@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentralized infrastructure and availability. With a focus on blockchain and architecture, I strive to bring together the power of decentralized technology and efficiency.
+Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentralized infrastructure and availability. I strive to bring together the power of decentralized technology and efficiency.
 
 - Website: [0xkyran.dev](https://0xkyran.dev/)
 - Github:  [0xkyran](https://github.com/0xKyran)
@@ -8,17 +8,12 @@ Heyy, I'm Kyran also known as Kiirion, a Dutch developer focusing on decentraliz
 
 ## 🛠️ My Toolkit
 
-**DevOps**: Git, CI/CD,Docker, Kubernetes
+**Blockchain**: Ethereum, ARweave, Hardhat, Geth
 
-**Cloud Platforms**: AWS (Certified) & GCP, Akamai
+**Languages**: Solidity, JavaScript, Python, Go, Rust
 
-**Infrastructure as Code**: Terraform, Ansible, Prisma
+**Cloud DevOps**: AWS, OpenTofu, Prism, Ansible
 
-**Blockchain**: Ethereum, Arweave, Bitcoin
-
-**Languages**: Solidity, Python, JavaScript, POSIX, Rust, Go
-
-**NFT & Crypto**: ERC-721, ERC-20, DeFi, IPFS
-
+**Tools**: Git, Docker, Kubernetes, Nginx, Apache, Ansible
 
 ⭐️ & ❤️ From [0xkyran](https://github.com/0xKyran)
